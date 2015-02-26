@@ -1,0 +1,4 @@
+- Please do not delete this file -
+
+* It is used to make configuration changes the main Apache configuration file
+* During the provisioning of the server by Vagrant

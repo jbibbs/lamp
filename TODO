@@ -1,0 +1,10 @@
+TODO
+
+* Add more linked folders:
+	- www (or other public website) directory which includes all vhosted application folders
+	- PHP folder (for editing php.ini?)
+
+* Update apache permissions automatically on provision
+* Test the installation
+* Create a git 
+* Support for Ruby/Less?
